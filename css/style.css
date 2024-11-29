@@ -23,10 +23,10 @@ body{
 }
 #presentation h1, #presentation p{
     text-shadow: 
-        2px 2px 0 #6666, 
-        -2px -2px 0 #6666,
-        2px -2px 0 #6666,
-        -2px 2px 0 #6666;
+        2px 2px 0 #aaaaaa66, 
+        -2px -2px 0 #aaaaaa66,
+        2px -2px 0 #aaaaaa66,
+        -2px 2px 0 #aaaaaa66;
 }
 h1{
     font-size: 4rem;
